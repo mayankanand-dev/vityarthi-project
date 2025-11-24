@@ -24,28 +24,7 @@ This project is a functional clone of the popular puzzle game where the player m
 
 You need to have **Python** installed on your system.
 
-### Dependencies
-
-This project requires the **Pygame** library. You can install it using `pip`:
-
-```bash
-pip install pygame
-
-###
-## 🚀 How to Run
-
-1.  **Save the Code**: Save the provided Python code into a file named, for example, `tetris.py`.
-2.  **Execute the Script**: Run the file from your terminal:
-
-    ```bash
-    python tetris.py
-    ```
-
-3.  **Start the Game**: A window will open with a **"Press Any Key To Play"** message. Press any key to begin the game.
-
----
-
-## 🎮 Controls
+### 🎮 Controls
 
 | Key | Action |
 | :--- | :--- |
@@ -55,3 +34,10 @@ pip install pygame
 | **Up Arrow** | **Rotate** piece (clockwise) |
 | **Spacebar** | **Hard drop** (instant drop to the bottom) |
 | **Window Close** | Quit the game |
+
+### Dependencies
+
+This project requires the **Pygame** library. You can install it using `pip`:
+
+```bash
+pip install pygame
