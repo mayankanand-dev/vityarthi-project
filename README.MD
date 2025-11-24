@@ -30,6 +30,8 @@ This project requires the **Pygame** library. You can install it using `pip`:
 
 ```bash
 pip install pygame
+
+###
 ## 🚀 How to Run
 
 1.  **Save the Code**: Save the provided Python code into a file named, for example, `tetris.py`.
